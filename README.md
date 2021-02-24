@@ -10,14 +10,14 @@
 <!-- 
    GitHub Stats User
 -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=ffff&title_color=fff" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=f1f1f1&title_color=fff" /> -->
 ![Hállex da Silva Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=ffff&title_color=fff)
 
 <!-- 
    GitHub Readme Stats Top Langs
 -->
-<!-- <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=ffff&title_color=fff" /> -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=ffff&title_color=fff)
+<!-- <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff" /> -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff)
 
 <!-- 
    Languages and Tools
