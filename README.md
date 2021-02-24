@@ -1,11 +1,23 @@
+<!-- 
+   Welcome message
+-->
 ### Hi, I'm Hállex Costa 👋🏽👨🏽‍💻
 
+<!-- 
+   About me
+-->
 - 🔭 I’m currently working on Backend.
 - 🌱 I’m currently learning NodeJS and React with Typescript TDD.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: hallex.costa@hotmail.com
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I have fun programming.
+
+<!-- 
+   Profile visit count
+-->
+#### 🚀 Visitants:
+<img src="https://komarev.com/ghpvc/?username=hallexcosta&color=blue&flat=style" width="130px" />
 
 <!-- 
    GitHub Stats User
