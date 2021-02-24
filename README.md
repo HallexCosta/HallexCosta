@@ -9,4 +9,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=ffff&title_color=fff" />
 
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&exclude_repo=arborizatuba&bg_color=2E3440&text_color=ffff&title_color=fff" />
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=ffff&title_color=fff" />
