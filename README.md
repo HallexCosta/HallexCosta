@@ -1,4 +1,4 @@
-### Hi, I'm Hállex Costa 👋
+### Hi, I'm Hállex Costa 👋🏽👨🏽‍💻
 
 - 🔭 I’m currently working on Backend.
 - 🌱 I’m currently learning NodeJS and React with Typescript TDD.
