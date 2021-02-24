@@ -8,3 +8,5 @@
 - ⚡ Fun fact: I have fun programming.
 
 <img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&&show_icons=true&title_color=f9f9f9&icon_color=blue&text_color=fff&bg_color=191919" />
+
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&exclude_repo=arborizatuba" />
