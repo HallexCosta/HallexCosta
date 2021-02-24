@@ -7,6 +7,6 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I have fun programming.
 
-<img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&&show_icons=true&title_color=f9f9f9&icon_color=blue&text_color=fff&bg_color=191919" />
+<img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=ffff&title_color=fff" />
 
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&exclude_repo=arborizatuba" />
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&exclude_repo=arborizatuba&bg_color=2E3440&text_color=ffff&title_color=fff" />
