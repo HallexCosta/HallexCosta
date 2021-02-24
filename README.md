@@ -7,12 +7,21 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I have fun programming.
 
+<!-- 
+   GitHub Stats User
+-->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=ffff&title_color=fff" /> -->
 ![Hállex da Silva Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=ffff&title_color=fff)
 
+<!-- 
+   GitHub Readme Stats Top Langs
+-->
 <!-- <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=ffff&title_color=fff" /> -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=ffff&title_color=fff)
 
+<!-- 
+   Languages and Tools
+-->
 ### 🧰 Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
@@ -34,4 +43,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQLite" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![Follow @hallexcosta on GitHub](https://img.shields.io/github/followers/hallexcosta?label=Follow%20%40hallexcosta&style=social)
+<!-- 
+  Github buttons
+-->
+![Follow @hallexcosta on GitHub](https://img.shields.io/github/followers/hallexcosta?color=555&label=Follow%20%40hallexcosta%20on%20GitHub&logo=github&logoColor=f9f9f9&style=for-the-badge)
+![Stars @hallexcosta on GitHub](https://img.shields.io/github/stars/hallexcosta?color=555&label=STARS%20%40hallexcosta%20on%20GitHub&logo=github&logoColor=f9f9f9&style=for-the-badge)
