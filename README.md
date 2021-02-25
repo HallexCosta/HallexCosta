@@ -11,7 +11,7 @@
 - 💬 Ask me about Typescript, Best practice or any tech related stuff.
 - 📫 How to reach me: hallex.costa@hotmail.com
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I have fun programming.
+- ⚡ Fun fact: I have a lot of fun programming 😆.
 
 <!-- 
    Profile visit count
