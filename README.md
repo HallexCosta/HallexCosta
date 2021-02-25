@@ -8,7 +8,7 @@
 -->
 - 🔭 I’m currently working on Backend.
 - 🌱 I’m currently learning NodeJS and React with Typescript TDD.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about Typescript, Best practice or any tech related stuff.
 - 📫 How to reach me: hallex.costa@hotmail.com
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I have fun programming.
