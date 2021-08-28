@@ -7,17 +7,11 @@
    About me
 -->
 - 🔭 I’m currently working on Backend.
-- 🌱 I’m currently learning NodeJS and React with Typescript TDD.
-- 💬 Ask me about Typescript, Best practice or any tech related stuff.
-- 📫 How to reach me: hallex.costa@hotmail.com
+- 🌱 I’m currently learning NodeJS and React with Typescriptand and Unit Tests following TDD.
+- 💬 Ask me about Typescript, Best practices for your code, Node Life Cycle or any tech related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I have a lot of fun programming 😆.
-
-<!-- 
-   Profile visit count
--->
-#### 🚀 Visitants:
-<img src="https://komarev.com/ghpvc/?username=hallexcosta&color=blue&flat=style" width="130px" />
+- ✨ Marked phrase: "Write the test before the application code", is the developer's equivalent to, "think before you speak".
 
 <!-- 
    GitHub Stats User
@@ -32,31 +26,56 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff)
 
 <!-- 
-   Languages and Tools
+   Hard Skills
 -->
-### 🧰 Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node JS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="React Native" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Mongo DB" height="40" style="vertical-align:top; margin:4px">  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://user-images.githubusercontent.com/55293671/108945602-a5199f80-763b-11eb-88b1-5862e09f5743.png" alt="Neovim" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQLite" height="40" style="vertical-align:top; margin:4px">
-</p>
+
+### 🧰 Hard Skills:
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&labelColor=blue&logo=typescript&logoColor=white&link=https://typescriptlang.org)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&labelColor=gold&logo=javascript&logoColor=black&link=https://www.javascript.com)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&labelColor=0d1117&logo=nodedotjs&logoColor=green&link=https://nodejs.org)
+![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&labelColor=blue&logo=react&logoColor=lightblue&link=https://reactjs.org)
+![Expo](https://img.shields.io/badge/-Expo-0d1117?style=for-the-badge&labelColor=white&logo=expo&logoColor=0d1117&link=https://expo.dev)
+![React Native](https://img.shields.io/badge/-React%20Native-blue?style=for-the-badge&labelColor=white&logo=react&logoColor=blue&link=https://reactnative.dev)
+![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&labelColor=white&logo=git&logoColor=brown&link=https://git-scm.com)
+![Github](https://img.shields.io/badge/-Github-white?style=for-the-badge&labelColor=white&logo=github&logoColor=0d1117&link=https://git-scm.com)
+![Neovim](https://img.shields.io/badge/-Neovim-0d1117?style=for-the-badge&labelColor=white&logo=neovim&logoColor=green&link=https://neovim.io)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&labelColor=white&logo=linux&logoColor=black&link=https://www.linux.org)
 
 <!-- 
-  Github buttons
+   Others
 -->
-![Follow @hallexcosta on GitHub](https://img.shields.io/github/followers/hallexcosta?color=555&label=Follow%20%40hallexcosta%20on%20GitHub&logo=github&logoColor=f9f9f9&style=for-the-badge)
-![Stars @hallexcosta on GitHub](https://img.shields.io/github/stars/hallexcosta?color=555&label=STARS%20%40hallexcosta%20on%20GitHub&logo=github&logoColor=f9f9f9&style=for-the-badge)
+
+### 😉 Others Skills
+
+![PHP](https://img.shields.io/badge/-PHP-darkslateblue?style=for-the-badge&labelColor=white&logo=php&logoColor=darkslateblue&link=https://php.com)
+![Golang](https://img.shields.io/badge/-Golang-cornflowerblue?style=for-the-badge&labelColor=white&logo=go&logoColor=cornflowerblue&link=https://golang.org)
+![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&labelColor=white&logo=visualstudiocode&logoColor=blue&link=https://code.visualstudio.com)
+![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&labelColor=white&logo=html5&logoColor=red&link=https://developer.mozilla.org/en-US/docs/Web/HTML)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&labelColor=white&logo=css3&logoColor=blue&link=https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+<!-- 
+   What I Intend to Study
+-->
+### 📚 What I Intend to Study 🤓
+
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&labelColor=blue&logo=docker&logoColor=lightblue&link=https://docker.com)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-mediumblue?style=for-the-badge&labelColor=mediumblue&logo=kubernetes&logoColor=steelblue&link=https://kubernetes.io)
+![GraphQL](https://img.shields.io/badge/-GraphQL-deeppink?style=for-the-badge&labelColor=ivory&logo=graphql&logoColor=deeppink&link=https://graphql.org/)
+
+<!-- 
+   Visitants
+-->
+
+### 🚀 Visitants
+
+![Visitants](https://komarev.com/ghpvc/?username=hallexcosta&color=blue&flat=style)
+![Follow @hallexcosta on GitHub](https://img.shields.io/github/followers/hallexcosta?color=555&label=Follow%20%40hallexcosta%20on%20GitHub&logo=github&logoColor=f9f9f9&style=flat)
+![Stars @hallexcosta on GitHub](https://img.shields.io/github/stars/hallexcosta?color=555&label=STARS%20%40hallexcosta%20on%20GitHub&logo=github&logoColor=f9f9f9&style=flat)
+
+<!-- 
+   Contacts
+-->
+### ☎️ Contacts
+Email: [hallex.costa@hotmail.com](https://hotmail.com)  
+Linkedin: [@hallexcosta](https://www.linkedin.com/in/hallexcosta)
