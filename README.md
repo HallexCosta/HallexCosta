@@ -61,7 +61,9 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&labelColor=blue&logo=docker&logoColor=lightblue&link=https://docker.com)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-mediumblue?style=for-the-badge&labelColor=mediumblue&logo=kubernetes&logoColor=steelblue&link=https://kubernetes.io)
-![GraphQL](https://img.shields.io/badge/-GraphQL-deeppink?style=for-the-badge&labelColor=ivory&logo=graphql&logoColor=deeppink&link=https://graphql.org/)
+![GraphQL](https://img.shields.io/badge/-GraphQL-deeppink?style=for-the-badge&labelColor=ivory&logo=graphql&logoColor=deeppink&link=https://graphql.org)
+![Kafka](https://img.shields.io/badge/-Kafka-white?style=for-the-badge&labelColor=white&logo=apache-kafka&logoColor=0d1117&link=https://kafka.apache.org)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange?style=for-the-badge&labelColor=white&logo=rabbitmq&logoColor=orange&link=https://rabbitmq.com)
 
 <!-- 
    Visitants
