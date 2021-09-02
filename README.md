@@ -7,7 +7,7 @@
    About me
 -->
 - 🔭 I’m currently working on Backend.
-- 🌱 I’m currently learning NodeJS and React with Typescriptand and Unit Tests following TDD.
+- 🌱 I’m currently learning NodeJS and React with Typescript and and Unit Tests following TDD.
 - 💬 Ask me about Typescript, Best practices for your code, Node Life Cycle or any tech related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I have a lot of fun programming 😆.
