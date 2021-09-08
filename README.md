@@ -23,14 +23,14 @@
 <!-- 
    GitHub Stats User
 -->
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=f1f1f1&title_color=fff&hide=issues" />
-<!-- ![Hállex da Silva Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=ffff&title_color=fff&hide=issues) -->
+<img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=f1f1f1&title_color=fff&hide=issues&include_all_commits=true&count_private=true" />
+<!-- ![Hállex da Silva Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=f1f1f1&title_color=fff&hide=issues&include_all_commits=true&count_private=true) -->
 
 <!-- 
    GitHub Readme Stats Top Langs
 -->
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff" />
+
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff) -->
 </div>
 
