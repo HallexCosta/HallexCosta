@@ -39,6 +39,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=for-the-badge&labelColor=white&logo=react&logoColor=blue&link=https://reactnative.dev)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&labelColor=white&logo=git&logoColor=brown&link=https://git-scm.com)
 ![Github](https://img.shields.io/badge/-Github-white?style=for-the-badge&labelColor=white&logo=github&logoColor=0d1117&link=https://git-scm.com)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-white?style=for-the-badge&labelColor=white&logo=github-actions&logoColor=blue&link=https://github.com/features/actions)
 ![Neovim](https://img.shields.io/badge/-Neovim-0d1117?style=for-the-badge&labelColor=white&logo=neovim&logoColor=green&link=https://neovim.io)
 ![Linux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&labelColor=white&logo=linux&logoColor=black&link=https://www.linux.org)
 
