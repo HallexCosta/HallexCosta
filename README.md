@@ -13,7 +13,7 @@
 
 - 🔭 I am currently specializing in the Backend...
 - 🌱 I’m currently learning NodeJS and React with Typescript and and Unit Tests following TDD.
-- 💬 Ask me about Typescript, Best practices for your code, Node Life Cycle or any tech related stuff.
+- 💬 Ask me about Javascript, Typescript, Best practices for your code, Node Life Cycle or any tech related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I have a lot of fun programming 😆.
 - ✨ Marked phrase: "Write the test before the application code", is the developer's equivalent to, "think before you speak".
@@ -23,13 +23,13 @@
 <!-- 
    GitHub Stats User
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=f1f1f1&title_color=fff&hide=issues&include_all_commits=true&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=f1f1f1&title_color=fff&hide=issues&include_all_commits=true&count_private=true" />
 <!-- ![Hállex da Silva Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=f1f1f1&title_color=fff&hide=issues&include_all_commits=true&count_private=true) -->
 
 <!-- 
    GitHub Readme Stats Top Langs
 -->
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff" />
+<image align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff" />
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff) -->
 </div>
