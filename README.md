@@ -66,6 +66,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&labelColor=white&logo=visualstudiocode&logoColor=blue&link=https://code.visualstudio.com)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&labelColor=white&logo=html5&logoColor=red&link=https://developer.mozilla.org/en-US/docs/Web/HTML)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&labelColor=white&logo=css3&logoColor=blue&link=https://developer.mozilla.org/en-US/docs/Web/CSS)
+![CSharp](https://img.shields.io/badge/-CSharp-purple?style=for-the-badge&labelColor=white&logo=c#&logoColor=purple&link=https://docs.microsoft.com/en-us/dotnet/csharp)
 
 <!-- 
    What I Intend to Study
