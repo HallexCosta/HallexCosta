@@ -32,7 +32,6 @@
 <image align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff" />
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff) -->
-</div>
 
 <!-- 
    Hard Skills
