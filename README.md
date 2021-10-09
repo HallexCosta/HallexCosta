@@ -61,6 +61,7 @@
 
 ## 😉 Others Hard Skills
 
+![Lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge&labelColor=white&logo=lua&logoColor=blue&link=https://www.lua.org)
 ![PHP](https://img.shields.io/badge/-PHP-darkslateblue?style=for-the-badge&labelColor=white&logo=php&logoColor=darkslateblue&link=https://php.com)
 ![Golang](https://img.shields.io/badge/-Golang-cornflowerblue?style=for-the-badge&labelColor=white&logo=go&logoColor=cornflowerblue&link=https://golang.org)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&labelColor=white&logo=visualstudiocode&logoColor=blue&link=https://code.visualstudio.com)
