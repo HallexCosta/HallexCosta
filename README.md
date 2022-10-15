@@ -11,8 +11,8 @@
   <img align="right" src="https://avatars.githubusercontent.com/u/55293671?v=4&size=200" alt="Profile @hallexcosta" />
 -->
 
-- 🔭 I am currently specializing in the Backend...
-- 🌱 I’m currently learning NodeJS and React with Typescript and and Unit Tests following TDD.
+- 🔭 I am currently specializing in the Backend.
+- 🌱 I'm constantly learning about Node.js, React.js, and React Native with Typescript and unit tests.
 - 💬 Ask me about Javascript, Typescript, Best practices for your code, Node Life Cycle or any tech related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I have a lot of fun programming 😆.
