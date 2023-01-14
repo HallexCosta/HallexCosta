@@ -41,7 +41,7 @@
 -->
 
 
-#### 🧰 Stacks:
+### 🧰 Stacks:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&labelColor=blue&logo=typescript&logoColor=white&link=https://typescriptlang.org)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&labelColor=gold&logo=javascript&logoColor=black&link=https://www.javascript.com)
@@ -57,15 +57,16 @@
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&labelColor=white&logo=css3&logoColor=blue&link=https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![CSharp](https://img.shields.io/badge/-CSharp-purple?style=for-the-badge&labelColor=white&logo=c#&logoColor=purple&link=https://docs.microsoft.com/en-us/dotnet/csharp)
 
-#### Devops
+### Devops
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-white?style=for-the-badge&labelColor=white&logo=github-actions&logoColor=blue&link=https://github.com/features/actions)
 ![Render](https://img.shields.io/badge/-Render-green?style=for-the-badge&labelColor=white&logo=render&logoColor=green&link=https://render.com)
 
-#### Code Editors
-![LunarVim](https://img.shields.io/badge/-Neovim-0d1117?style=for-the-badge&labelColor=white&logo=neovim&logoColor=green&link=https://neovim.io)
+### Code Editors
+![LunarVim](https://img.shields.io/badge/-Neovim-1a1a1a?style=for-the-badge&labelColor=white&logo=neovim&logoColor=green&link=https://neovim.io)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&labelColor=white&logo=visualstudiocode&logoColor=blue&link=https://code.visualstudio.com)
 
-#### Windows
+#### O.S
+![Windows](https://img.shields.io/badge/-Windows-0d1117?style=for-the-badge&labelColor=white&logo=windows&logoColor=blue&link=https://www.microsoft.com)
 ![WSL2 ArchLinux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&labelColor=white&logo=linux&logoColor=black&link=https://www.linux.org)
 
 <!-- 
@@ -73,10 +74,10 @@
 -->
 ### 📚 What I Intend to Study 🤓
 
-![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&labelColor=blue&logo=docker&logoColor=lightblue&link=https://docker.com)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-mediumblue?style=for-the-badge&labelColor=mediumblue&logo=kubernetes&logoColor=steelblue&link=https://kubernetes.io)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&labelColor=white&logo=docker&logoColor=0db7ed&link=https://docker.com)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-mediumblue?style=for-the-badge&labelColor=white&logo=kubernetes&logoColor=steelblue&link=https://kubernetes.io)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-deeppink?style=for-the-badge&labelColor=ivory&logo=graphql&logoColor=deeppink&link=https://graphql.org)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-white?style=for-the-badge&labelColor=white&logo=apache-kafka&logoColor=0d1117&link=https://kafka.apache.org)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-1f1f1f?style=for-the-badge&labelColor=white&logo=apache-kafka&logoColor=0d1117&link=https://kafka.apache.org)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange?style=for-the-badge&labelColor=white&logo=rabbitmq&logoColor=orange&link=https://rabbitmq.com)
 
 <!-- 
