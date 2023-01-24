@@ -32,7 +32,7 @@
 <!-- 
    GitHub Readme Stats Top Langs
 -->
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff" />
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba,dotfiles-public,dotfiles-private,tg-fatec-diagrams,nvim,nvim-v2&bg_color=2E3440&text_color=fff&title_color=fff" />
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff) -->
 
