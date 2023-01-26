@@ -26,20 +26,19 @@
 
 ## Github Statuses
 
-<img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=f1f1f1&title_color=fff&hide=issues&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
 <!-- ![Hállex da Silva Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hallexcosta&show_icons=true&bg_color=2E3440&text_color=f1f1f1&title_color=fff&hide=issues&include_all_commits=true&count_private=true) -->
 
 <!-- 
    GitHub Readme Stats Top Langs
 -->
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba,dotfiles-public,dotfiles-private,tg-fatec-diagrams,nvim,nvim-v2&bg_color=2E3440&text_color=fff&title_color=fff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba,dotfiles-public,dotfiles-private,tg-fatec-diagrams,nvim,nvim-v2&theme=rose_pine" />
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HallexCosta&layout=compact&exclude_repo=arborizatuba&bg_color=2E3440&text_color=fff&title_color=fff) -->
 
 <!-- 
    Hard Skills
 -->
-
 
 ### 🧰 Stacks:
 
