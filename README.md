@@ -44,14 +44,14 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&labelColor=blue&logo=typescript&logoColor=white&link=https://typescriptlang.org)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-gold?style=for-the-badge&labelColor=gold&logo=javascript&logoColor=black&link=https://www.javascript.com)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&labelColor=0d1117&logo=nodedotjs&logoColor=green&link=https://nodejs.org)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&labelColor=18181a&logo=nodedotjs&logoColor=green&link=https://nodejs.org)
 ![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&labelColor=blue&logo=react&logoColor=lightblue&link=https://reactjs.org)
-![Expo](https://img.shields.io/badge/-Expo-0d1117?style=for-the-badge&labelColor=white&logo=expo&logoColor=0d1117&link=https://expo.dev)
+![Expo](https://img.shields.io/badge/-Expo-18181a?style=for-the-badge&labelColor=white&logo=expo&logoColor=18181a&link=https://expo.dev)
 ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=for-the-badge&labelColor=white&logo=react&logoColor=blue&link=https://reactnative.dev)
 ![PHP](https://img.shields.io/badge/-PHP-darkslateblue?style=for-the-badge&labelColor=white&logo=php&logoColor=darkslateblue&link=https://php.com)
 ![Lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge&labelColor=white&logo=lua&logoColor=blue&link=https://www.lua.org)
 ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&labelColor=white&logo=git&logoColor=brown&link=https://git-scm.com)
-![Github](https://img.shields.io/badge/-Github-white?style=for-the-badge&labelColor=white&logo=github&logoColor=0d1117&link=https://git-scm.com)
+![Github](https://img.shields.io/badge/-Github-18181a?style=for-the-badge&labelColor=white&logo=github&logoColor=0d1117&link=https://git-scm.com)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=for-the-badge&labelColor=white&logo=html5&logoColor=red&link=https://developer.mozilla.org/en-US/docs/Web/HTML)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&labelColor=white&logo=css3&logoColor=blue&link=https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![CSharp](https://img.shields.io/badge/-CSharp-purple?style=for-the-badge&labelColor=white&logo=c#&logoColor=purple&link=https://docs.microsoft.com/en-us/dotnet/csharp)
@@ -61,12 +61,12 @@
 ![Render](https://img.shields.io/badge/-Render-green?style=for-the-badge&labelColor=white&logo=render&logoColor=green&link=https://render.com)
 
 ### Code Editors
-![LunarVim](https://img.shields.io/badge/-Neovim-1a1a1a?style=for-the-badge&labelColor=white&logo=neovim&logoColor=green&link=https://neovim.io)
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&labelColor=white&logo=visualstudiocode&logoColor=blue&link=https://code.visualstudio.com)
+![LunarVim](https://img.shields.io/badge/-Neovim-18181a?style=for-the-badge&labelColor=white&logo=neovim&logoColor=green&link=https://neovim.io)
 
 #### O.S
-![Windows](https://img.shields.io/badge/-Windows-0d1117?style=for-the-badge&labelColor=white&logo=windows&logoColor=blue&link=https://www.microsoft.com)
-![WSL2 ArchLinux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&labelColor=white&logo=linux&logoColor=black&link=https://www.linux.org)
+![Windows](https://img.shields.io/badge/-Windows-18181a?style=for-the-badge&labelColor=white&logo=windows&logoColor=blue&link=https://www.microsoft.com)
+![WSL2 ArchLinux](https://img.shields.io/badge/-Linux-18181a?style=for-the-badge&labelColor=white&logo=linux&logoColor=black&link=https://www.linux.org)
 
 <!-- 
    What I Intend to Study
