@@ -13,10 +13,11 @@
 
 - 🔭 I am currently specializing in the Backend.
 - 🌱 I'm constantly learning about Node.js, React.js, and React Native with Typescript and unit tests.
-- 💬 Ask me about Javascript, Typescript, Best practices for your code, Node Life Cycle or any tech related stuff.
+- 💬 Ask me about Javascript, Typescript, Best practices for your code or my code, or any tech related stuff.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I have a lot of fun programming 😆.
-- ✨ Marked phrase: "Write the test before the application code", is the developer's equivalent to, "think before you speak".
+- ⚡ Fun fact: Programming can be fun, but i'm like play game League of Legends 😃.
+- ✨ I like Typescript concept but not the way were implemented.
+<!-- ✨ Marked phrase: "Write the test before the application code", is the developer's equivalent to, "think before you speak". -->
 
    
    
