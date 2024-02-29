@@ -41,8 +41,6 @@
    Hard Skills
 -->
 
-### 🧰 Stacks:
-
 ### Programming languages
 
 <img src="https://skills.thijs.gg/icons?i=js,ts,php,nodejs,bun,go,lua,bash,cs,cpp" alt="Programming languages" />
