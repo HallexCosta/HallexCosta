@@ -43,30 +43,30 @@
 
 ### Programming languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,bun,go,lua,bash,cs,cpp" alt="Programming languages" />
+<img src="https://skill-icons.hallexcosta.com/icons?i=js,ts,php,nodejs,bun,go,lua,bash,cs,cpp" alt="Programming languages" />
 
 ### Backend Frameworks and libraries
 
-<img src="https://skillicons.dev/icons?i=express,nestjs,adonis,laravel,jest,prisma" alt="Frameworks and libraries" />
+<img src="https://skill-icons.hallexcosta.com/icons?i=express,nestjs,adonis,laravel,jest,prisma" alt="Frameworks and libraries" />
 
 ### Frontend Frameworks and libraries
 
-<img src="https://skillicons.dev/icons?i=next,react,tailwind,sass,styledcomponents" alt="Frameworks and libraries" />
+<img src="https://skill-icons.hallexcosta.com/icons?i=next,react,tailwind,sass,styledcomponents" alt="Frameworks and libraries" />
 
 ### Database and ORMs
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,prisma,typeorm,drizzle" alt="Database and ORMs" />
+<img src="https://skill-icons.hallexcosta.com/icons?i=mysql,postgresql,mongodb,sqlite,prisma,typeorm,drizzle" alt="Database and ORMs" />
 
 ### Tools set  
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,redis,git,github,linux,figma,githubactions,obsidian,ubuntu,windows" alt="Tools set" />
+<img src="https://skill-icons.hallexcosta.com/icons?i=docker,nginx,redis,git,github,linux,figma,githubactions,obsidian,ubuntu,windows" alt="Tools set" />
 
 ### IDEs and Code editors
-<img src="https://skillicons.dev/icons?i=phpstorm,webstorm,neovim,vim" alt="Tools and Code editors" />
+<img src="https://skill-icons.hallexcosta.com/icons?i=phpstorm,webstorm,neovim,vim" alt="Tools and Code editors" />
 
 
 ### DevOps
-<img src="https://skillicons.dev/icons?i=cloudflare,aws,firebase,vercel,digitalocean" alt="Tools and Code editors" />
+<img src="https://skill-icons.hallexcosta.com/icons?i=cloudflare,aws,firebase,vercel,digitalocean" alt="Tools and Code editors" />
 
 
 <!-- 
